@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/fbuCptV.gif" width="27px">
+<!--   <img src="https://i.imgur.com/fbuCptV.gif" width="27px"> -->
   <br><br>
   <img src="https://i.imgur.com/RXC7FkY.gif" width="240px" align="center">
 <!--   <samp>
