@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 </p>
 
 <details>
-  <summary><b>:🌱: 2022 goal</b></summary>
+  <summary><b>🌱: 2022 goal</b></summary>
 </details>
 
 <details>
-  <summary><b>:telescope: 2021 goal</b></summary>
+  <summary><b>🔭: 2021 goal</b></summary>
 </details>
 
 <details>
