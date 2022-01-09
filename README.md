@@ -37,7 +37,3 @@ Here are some ideas to get you started:
   <summary><b>🔭: 2021 goal</b></summary>
 </details>
 
-<details>
-  <summary><b>:skull: 2020 goal</b></summary>
-</details>
-
