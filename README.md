@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   <img src="https://i.imgur.com/s1zwQjU.png" width="800px" align="center">
   
   <samp>
-    😁 Hello! Welcome to my GitHub home page.
+    <p></p>
+    <p>😁 Hello! Welcome to my GitHub home page.</P>
 <!--     <br>My current work focuses on enabling all of y'all to
       <br><em>receive recognition</em> for the amazing things that
     <br>you do in your software communities :sparkles:<br><br>
