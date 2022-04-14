@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<!--   <img src="https://i.imgur.com/fbuCptV.gif" width="27px"> -->
   <br><br>
-  <img src="https://i.imgur.com/RXC7FkY.gif" width="240px" align="center">
+  <img src="https://i.imgur.com/RXC7FkY.gif" width="720px" align="center">
 <!--   <samp>
     :wave: Hi! I design for GitHub.
     <br>My current work focuses on enabling all of y'all to
