@@ -23,12 +23,12 @@ Here are some ideas to get you started:
   <img src="https://i.imgur.com/s1zwQjU.png" width="800px" align="center">
   
   <samp>
-    :wave: Hi! I design for GitHub.
-    <br>My current work focuses on enabling all of y'all to
+    😁 Hello! Welcome to my GitHub home page.
+<!--     <br>My current work focuses on enabling all of y'all to
       <br><em>receive recognition</em> for the amazing things that
     <br>you do in your software communities :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
+    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a> -->
   </samp>
 </p>
 
