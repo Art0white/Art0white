@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <br><br>
-  
   <!--   <img src="https://i.imgur.com/RXC7FkY.gif" width="800px" align="center"> -->
   <!--   <img src="https://i.imgur.com/C2AepzI.gif" width="800px" align="center"> -->
   <img src="https://i.imgur.com/s1zwQjU.png" width="800px" align="center">
