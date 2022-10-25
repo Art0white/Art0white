@@ -34,9 +34,11 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>🌱: 2022 goal</b></summary>
+  希望疫情早日褪去，希望未来一片光明。
 </details>
 
 <details>
   <summary><b>🔭: 2021 goal</b></summary>
+  各种各样很忙的事情，竞赛、论文、考试、大创项目，加把劲！往前冲！
 </details>
 
