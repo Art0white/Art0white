@@ -33,6 +33,11 @@ Here are some ideas to get you started:
 </p>
 
 <details>
+  <summary><b>🛫: 2023 goal</b></summary>
+  毕业啦，来到阿里巴巴啦！！！加油冲冲冲！！！
+</details>
+
+<details>
   <summary><b>🌱: 2022 goal</b></summary>
   希望疫情早日褪去，希望未来一片光明。
 </details>
